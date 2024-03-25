@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "603b97a1-b950-4234-96b7-44d8dfad6f7e": {
+      "ProjectGuid": "603b97a1-b950-4234-96b7-44d8dfad6f7e",
+      "DisplayName": "ChatServer",
+      "ColorIndex": 0
+    },
+    "a16f547f-f8e0-4f6c-aee4-aa071e902c05": {
+      "ProjectGuid": "a16f547f-f8e0-4f6c-aee4-aa071e902c05",
+      "DisplayName": "ChatClient",
+      "ColorIndex": 1
+    },
+    "e77ec1eb-188e-4654-9a34-f91db0b4e048": {
+      "ProjectGuid": "e77ec1eb-188e-4654-9a34-f91db0b4e048",
+      "DisplayName": "Get IP from the person",
+      "ColorIndex": 2
+    },
+    "4637615f-720d-4782-9ae8-052b419172a7": {
+      "ProjectGuid": "4637615f-720d-4782-9ae8-052b419172a7",
+      "DisplayName": "GetIp",
+      "ColorIndex": 3
+    },
+    "8165b19a-35b0-4258-b465-966f2ff4c1a2": {
+      "ProjectGuid": "8165b19a-35b0-4258-b465-966f2ff4c1a2",
+      "DisplayName": "TermsWindow",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

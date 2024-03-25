@@ -1,0 +1,5 @@
+D:\Accord\ChatServer.exe
+D:\Accord\ChatServer.dll
+D:\Accord\ChatServer.deps.json
+D:\Accord\ChatServer.runtimeconfig.json
+D:\Accord\ChatServer.pdb

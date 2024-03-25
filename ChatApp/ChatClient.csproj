@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>bin\Debug\net5.0-windows\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net5.0-windows\icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="MVVM\EXE files\" />
+  </ItemGroup>
+
+</Project>
